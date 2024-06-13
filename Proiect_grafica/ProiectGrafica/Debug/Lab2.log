@@ -1,0 +1,3 @@
+﻿  patrat.cpp
+C:\Users\ASUS\OneDrive\Desktop\Proiect_grafica\Lab2\patrat.cpp(238,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab2.vcxproj -> C:\Users\ASUS\OneDrive\Desktop\Proiect_grafica\Debug\Lab2.exe
